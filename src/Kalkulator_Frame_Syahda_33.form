@@ -60,8 +60,8 @@
                           <Component id="jButton13" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
                       </Group>
                   </Group>
+                  <Component id="display" alignment="0" max="32767" attributes="0"/>
                   <Component id="jButton17" alignment="0" max="32767" attributes="0"/>
-                  <Component id="display" alignment="0" min="-2" pref="182" max="-2" attributes="0"/>
               </Group>
               <EmptySpace max="32767" attributes="0"/>
           </Group>
