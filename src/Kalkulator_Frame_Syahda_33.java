@@ -145,7 +145,7 @@ public class Kalkulator_Frame_Syahda_33 extends javax.swing.JFrame {
                 jButton11ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton11, new org.netbeans.lib.awtextra.AbsoluteConstraints(55, 152, 35, -1));
+        getContentPane().add(jButton11, new org.netbeans.lib.awtextra.AbsoluteConstraints(55, 152, 40, -1));
 
         jButton12.setText("C");
         jButton12.addActionListener(new java.awt.event.ActionListener() {
@@ -358,7 +358,7 @@ pilih=4;
          */
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
+                if ("Windows".equals(info.getName())) {
                     javax.swing.UIManager.setLookAndFeel(info.getClassName());
                     break;
                 }
