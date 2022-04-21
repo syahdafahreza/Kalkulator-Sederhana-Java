@@ -324,7 +324,7 @@ public class Kalkulator_Frame_Syahda_33 extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton11ActionPerformed
 
     private void jButton12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton12ActionPerformed
-        display.setText("");
+        display.setText("0");
 angka1=0.0;
 angka2=0.0;
 hasil=0.0;
